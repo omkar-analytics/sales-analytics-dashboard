@@ -1,0 +1,21 @@
+# 📊 Sales Analytics Dashboard
+
+## 📌 Project Overview
+This project analyzes sales data using Excel and creates an interactive dashboard.
+
+## 📁 Dataset
+- Sales Data Set for Dashboard.xlsx
+
+## 📊 Key Insights
+- Total Sales
+- Region-wise Analysis
+- Product Performance
+- Monthly Trends
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+
+## 🚀 Conclusion
+This dashboard helps understand business performance.
